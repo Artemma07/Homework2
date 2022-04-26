@@ -1,0 +1,5 @@
+﻿  Head.cpp
+C:\Users\Artem\source\repos\Homework2\Head.cpp(7,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Homework2.cpp
+  Создание кода...
+  Homework2.vcxproj -> C:\Users\Artem\source\repos\Homework2\Debug\Homework2.exe
