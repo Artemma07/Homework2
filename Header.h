@@ -1,6 +1,6 @@
-#ifndef FUNCTION_H
-#define FUNCTION_H
-#endif // !FUNCTION_H
+#ifndef HEADER_H
+#define HEADER_H
+#endif // !HEADER_H
 
 
 void randomMassive(int m[], const int SIZE);
